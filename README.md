@@ -1,7 +1,7 @@
-# Class 2 - HTML Introduction
+# Class 3 - HTML Intermediate and some CSS
 
 - [Class Notes](https://www.notion.so/HTML-5-82bb83bf5203432d9f753cfbccaacdea)
-- [Class Video](https://youtu.be/kLXdmBxPEmQ)
+- [Class Video](https://youtu.be/XDxsdND584w)
 
 ## Resources
 
@@ -15,7 +15,13 @@
 
 ## Objectives
 
-- [x]  Learn the anatomy of HTML syntax to structure your
-websites.
-- [x]  Understand the HTML boilerplate and HTML doctypes.
-- [x]  How to structure text in HTML.
+- [x]  How to structure HTML lists to create unordered and ordered
+lists.
+- [x]  How to insert images using HTML
+- [x]  How to create hyperlinks using anchor tags.
+- [x]  Understand how to use HTML tables for content.
+- [x]  How to use tables for layout.
+- [x]  Learn HTML best practices.
+- [x]  Understand about HTML forms and create a simple contact
+me form.
+- [x]  HTML Divs and how to separate content for CSS styling.
