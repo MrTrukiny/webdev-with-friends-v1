@@ -5,10 +5,8 @@
 Este será un curso completo sobre desarrollo web sin ningún costo monetario (pero sí tendrá el costo del esfuerzo que cada uno quiera dedicarle). El propósito principal es transmitirles una ruta con los conocimientos de base para que empiecen una carrera en el mundo del desarrollo web y la ingeniería de software por medio de teoría, práctica y enseñanzas directas de profesores con experienca en el desarrollo e interesados en transmitir sus conocimientos para aportar al crecimiento de la Comunidad.
 
 ### Contenido temático:
-[Course Syllabus](https://www.notion.so/a11738c4224c4b159e714bcde5d04431?v=e7a95f592a724b2bb0fc3c0f6b8f56b4)
-Ingresen a ese link para que vean los temás que abordaremos. Quizá se añadan más si son necesarios.
-[YouTube Class Playlist](https://www.youtube.com/playlist?list=PLIgWRLabYMD69tikUlYvbM-tddQCPKLSL)
-**¿Quieres unirte como aprendiz o profesor?** - Únete a nuestro Slack
+- [Course Syllabus](https://www.notion.so/a11738c4224c4b159e714bcde5d04431?v=e7a95f592a724b2bb0fc3c0f6b8f56b4)  Ingresen a ese link para que vean los temás que abordaremos. Quizá se añadan más si son necesarios.
+[YouTube Class Playlist](https://www.youtube.com/playlist?list=PLIgWRLabYMD69tikUlYvbM-tddQCPKLSL)  Aquí encontrarán las clases previas (no hay gran cuidado en la edición, pero se ven y oyen bien).  **¿Quieres unirte como aprendiz o profesor?** - Únete a nuestro Slack  
 [Slack](https://join.slack.com/t/webdev-friends/shared_invite/enQtODk3NTU1NTUxNzYyLWJjYWJkYWZlYTc4MTBhMDY2NzgxZjU2ZTk5YmRlMDY1MGYxYTQ3NjM0MzVhMzIyNjE2OThjNGM5MjAxM2M3NjE)
 
 ### Horarios y duración:
