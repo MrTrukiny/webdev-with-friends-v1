@@ -1,25 +1,21 @@
-# Class 1 - Web Development Fundamentals
+# Class 2 - HTML Introduction
 
-- [Class Notes](https://www.notion.so/Web-Development-Fundamentals-2198892533354f49b87f5178cf77c16b)
-- [Class Video](https://youtu.be/yUvxZlMS7O8)
+- [Class Notes](https://www.notion.so/HTML-5-82bb83bf5203432d9f753cfbccaacdea)
+- [Class Video](https://youtu.be/kLXdmBxPEmQ)
 
 ## Resources
 
-- [How Internet works?](https://www.notion.so/How-Internet-works-33b5597ebb894ff3b51d52370ca4c8a4)
+[HTML](https://www.notion.so/HTML-f387012c6a3a4d29bee644ab84a20f5b)
 
-- [How Websites work?](https://www.notion.so/How-Websites-work-3e03043bed2d4e269c04c217c8f54374)
+[HTML5 (Summary)](https://www.notion.so/HTML5-Summary-553c82c3280b4f38aec54ee87e24be6a)
 
-- [What does a Developer do?](https://www.notion.so/What-does-a-Developer-do-565e7f96adca4d6fb8e2dbc3307c5360)
+[HTML Cheat Sheet - Standford University](https://www.notion.so/HTML-Cheat-Sheet-Standford-University-d448fa3bb3f548f5b659a8881eb61998)
 
-- [History of the Web](https://www.notion.so/History-of-the-Web-5b48b374cd5c4cfa857cee9736c2d6fe)
+[Class Guide](https://www.notion.so/Class-Guide-a04af466ce884613b7934a7788fdeeaa)
 
 ## Objectives
 
-- [x]  Understand how the internet works.
-- [x]  Understand how websites work and how HTML, CSS and JavaScript contribute.
-- [x]  Start coding with HTML, CSS, and JavaScript.
-- [x]  bodyLearn and understand git, GitHub and version control.
-- [x]  Use the Unix command line to become a power user and
-write bash commands.
-- [x]  Learn key troubleshooting and debugging skills to apply to
-your projects.
+- [x]  Learn the anatomy of HTML syntax to structure your
+websites.
+- [x]  Understand the HTML boilerplate and HTML doctypes.
+- [x]  How to structure text in HTML.
