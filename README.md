@@ -5,15 +5,15 @@
 
 ## Resources
 
-[How Internet works?](https://www.notion.so/How-Internet-works-33b5597ebb894ff3b51d52370ca4c8a4)
+- [How Internet works?](https://www.notion.so/How-Internet-works-33b5597ebb894ff3b51d52370ca4c8a4)
 
-[How Websites work?](https://www.notion.so/How-Websites-work-3e03043bed2d4e269c04c217c8f54374)
+- [How Websites work?](https://www.notion.so/How-Websites-work-3e03043bed2d4e269c04c217c8f54374)
 
-[What does a Developer do?](https://www.notion.so/What-does-a-Developer-do-565e7f96adca4d6fb8e2dbc3307c5360)
+- [What does a Developer do?](https://www.notion.so/What-does-a-Developer-do-565e7f96adca4d6fb8e2dbc3307c5360)
 
-[History of the Web](https://www.notion.so/History-of-the-Web-5b48b374cd5c4cfa857cee9736c2d6fe)
+- [History of the Web](https://www.notion.so/History-of-the-Web-5b48b374cd5c4cfa857cee9736c2d6fe)
 
-### Objectives
+## Objectives
 
 - [x]  Understand how the internet works.
 - [x]  Understand how websites work and how HTML, CSS and JavaScript contribute.
