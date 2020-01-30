@@ -6,8 +6,8 @@ Este será un curso completo sobre desarrollo web sin ningún costo monetario (p
 
 ### Contenido temático:
 - [Course Syllabus](https://www.notion.so/a11738c4224c4b159e714bcde5d04431?v=e7a95f592a724b2bb0fc3c0f6b8f56b4)  Ingresen a ese link para que vean los temás que abordaremos. Quizá se añadan más si son necesarios.
-[YouTube Class Playlist](https://www.youtube.com/playlist?list=PLIgWRLabYMD69tikUlYvbM-tddQCPKLSL)  Aquí encontrarán las clases previas (no hay gran cuidado en la edición, pero se ven y oyen bien).  **¿Quieres unirte como aprendiz o profesor?** - Únete a nuestro Slack  
-[Slack](https://join.slack.com/t/webdev-friends/shared_invite/enQtODk3NTU1NTUxNzYyLWJjYWJkYWZlYTc4MTBhMDY2NzgxZjU2ZTk5YmRlMDY1MGYxYTQ3NjM0MzVhMzIyNjE2OThjNGM5MjAxM2M3NjE)
+- [YouTube Class Playlist](https://www.youtube.com/playlist?list=PLIgWRLabYMD69tikUlYvbM-tddQCPKLSL)  Aquí encontrarán las clases previas (no hay gran cuidado en la edición, pero se ven y oyen bien).    
+- [Slack](https://join.slack.com/t/webdev-friends/shared_invite/enQtODk3NTU1NTUxNzYyLWJjYWJkYWZlYTc4MTBhMDY2NzgxZjU2ZTk5YmRlMDY1MGYxYTQ3NjM0MzVhMzIyNjE2OThjNGM5MjAxM2M3NjE)  **¿Quieres unirte como aprendiz o profesor?** - Únete a nuestro Slack
 
 ### Horarios y duración:
 Las clases serán virtuales 3 veces por semana en las noches, con días y horas a acordar, por ejemplo: LWV: 20:00 - 22:00. Son bastantes temas y el tiempo que le dediquen por "fuera de clase" determinará cuanto nos tardaremos en acabar. La idea es terminarlo entre 4 y 6 meses.
