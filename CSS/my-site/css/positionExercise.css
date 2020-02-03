@@ -1,0 +1,48 @@
+/************** EXERCISE **************/
+
+/* .top-container {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px; 
+    background-color: blue;
+}
+
+.bot-container {
+    width: 200px;
+    height: 200px; 
+    background-color: yellow;
+} */
+
+/************** SOLUTION **************/
+
+.top-container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px; 
+    background-color: red;
+    display: inline-block;
+    position: relative;
+    left: 200px;
+}
+
+.bot-container {
+    width: 400px;
+    height: 200px; 
+    background-color: yellow;
+    display: inline-block;
+    position: relative;
+    right: 400px;
+}
