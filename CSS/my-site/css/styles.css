@@ -1,7 +1,15 @@
 body {
     margin: 0;
+    text-align: center;
 }
 
 h1 {
-    margin-top: 0;;
+    margin-top: 0;
+    /* width: 100px;
+    /* margin: 0 auto 0 auto; */
+    margin: 0 auto; */
+}
+
+.bottom-cloud {
+    position: relative;
 }
