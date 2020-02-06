@@ -1,0 +1,56 @@
+/************** EXERCISE **************/
+  /* Make a descendet stair ordering
+  the colors like yellow-blue-red using
+  absolute positioning. */
+
+/* .top-container {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px; 
+    background-color: blue;
+}
+
+.bot-container {
+    width: 200px;
+    height: 200px; 
+    background-color: yellow;
+} */
+
+/************** SOLUTION **************/
+
+/* White absolute positiong whe don't have
+to worry about misterius "whitespaces". */
+
+body {
+  margin: 0
+}
+
+.top-container {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+
+.middle-container {
+    width: 200px;
+    height: 200px; 
+    background-color: red;
+    position: absolute;
+    left: 400px;
+    top: 400px;
+}
+
+.bot-container {
+    width: 200px;
+    height: 200px; 
+    background-color: yellow;
+    position: absolute;
+}
