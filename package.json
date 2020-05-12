@@ -1,0 +1,15 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "\"jasdkfajsd\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Truky",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "superheroes": "^3.0.0"
+  }
+}
